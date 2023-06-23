@@ -1,4 +1,4 @@
-# haci
+# ucbucagin sahesini hesablayan kod yaz
 def sahe(a,h):
 sahe = (a*h) / 2
 return sahe
